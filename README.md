@@ -4,7 +4,8 @@
 This repository is for downscaling physical fields using 
 super resolution residual neural network.  
 Here the model is applied to downscale sea surface height (SSH) and 
-depth-averaged currents in coastal region.
+depth-averaged currents in coastal region. The relevant work has been published as  
+https://www.sciencedirect.com/science/article/pii/S0141118724002748#ack0001 
 
 An example has been constructed using the minima dataset. 
 Directories out2d_4 and out2d_16 contain examples of low and high resoltuion data. 
