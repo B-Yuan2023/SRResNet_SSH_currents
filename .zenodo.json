@@ -9,5 +9,13 @@
             "affiliation": "Helmholtz-Zentrum Hereon, Max-Planck-Str. 1, 21502 Geesthacht, Germany",
         }
     ],
-    "keywords": ["Statistical Spatial Downscaling", "Super-Resolution", "sea surface height","currents"]
+    "keywords": ["Statistical Spatial Downscaling", "Super-Resolution", "sea surface height","currents"],
+	    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.1016/j.oceaneng.2025.121100",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-article"
+        }
+    ]
 }
