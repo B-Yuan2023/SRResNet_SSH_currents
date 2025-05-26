@@ -2,8 +2,6 @@
     "title": "Super-Resolution Residual Network for coastal fields downscaling",
     "description": "SRResNet",
     "license": "MIT license",
-    "upload_type": "software",
-    "access_right": "open",
 	"creators": [
         {
             "name": "Bing Yuan"
@@ -11,5 +9,5 @@
             "affiliation": "Helmholtz-Zentrum Hereon, Max-Planck-Str. 1, 21502 Geesthacht, Germany",
         }
     ],
-    "keywords": ["Statistical Spatial Downscaling", "Super-Resolution", "sea surface height","currents"],
+    "keywords": ["Statistical Spatial Downscaling", "Super-Resolution", "sea surface height","currents"]
 }
