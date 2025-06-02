@@ -1,21 +1,20 @@
 {
-    "title": "Super-Resolution Residual Network for coastal fields downscaling",
-    "description": "SRResNet",
-    "license": "MIT license",
+    "title": "test title",
+    "description": "test description",
+    "license": "GPL-3.0",
+    "upload_type": "software",
+    "access_right": "open",
+    "version": "0.14.0",
     "creators": [
         {
-            "name": "Bing Yuan"
-            "orcid": "0000-0001-8767-3942",
-            "affiliation": "Helmholtz-Zentrum Hereon, Max-Planck-Str. 1, 21502 Geesthacht, Germany",
+            "name": "Vanderhaeghe, Floris",
+            "affiliation": "Research Institute for Nature and Forest",
+            "orcid": "0000-0002-6378-6229"
         }
     ],
-    "keywords": ["Statistical Spatial Downscaling", "Super-Resolution", "sea surface height","currents"],
-    "related_identifiers": [
-        {
-            "scheme": "doi",
-            "identifier": "10.1016/j.oceaneng.2025.121100",
-            "relation": "isDocumentedBy",
-            "resource_type": "publication-article"
-        }
+    "keywords": [
+        "T",
+        "my strange keyword",
+        "another"
     ]
 }
