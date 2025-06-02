@@ -2,7 +2,7 @@
     "title": "Super-Resolution Residual Network for coastal fields downscaling",
     "description": "SRResNet",
     "license": "MIT license",
-	"creators": [
+    "creators": [
         {
             "name": "Bing Yuan"
             "orcid": "0000-0001-8767-3942",
@@ -10,7 +10,7 @@
         }
     ],
     "keywords": ["Statistical Spatial Downscaling", "Super-Resolution", "sea surface height","currents"],
-	    "related_identifiers": [
+    "related_identifiers": [
         {
             "scheme": "doi",
             "identifier": "10.1016/j.oceaneng.2025.121100",
